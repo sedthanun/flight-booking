@@ -111,7 +111,7 @@
         </div>
         <div class="col-md-6 mt-md-3">
           <p>สแกน QR Code ที่นี่</p>
-          <img src="src/assets/qrticket.png" class="img-fluid w-50" alt="" srcset="">
+          <img src="/src/assets/qrticket.png" class="img-fluid w-50" alt="" srcset="">
         </div>
         <div class="col-md-12">
           <form 
@@ -214,7 +214,7 @@
               <h4>PAIDED</h4>
             </div>
             <div class="col-md-6">
-              <img src="src/assets/qrticket.png" class="img-fluid w-50" alt="" srcset="">
+              <img src="/src/assets/qrticket.png" class="img-fluid w-50" alt="" srcset="">
             </div>
           </div>
         </div>

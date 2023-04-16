@@ -17,7 +17,7 @@
           </div>
         </div>
         <div class="logo position-absolute bottom-0 start-0">
-          <img src="src/assets/itlog.png" alt="" srcset="" />
+          <img src="/src/assets/itlog.png" alt="" srcset="" />
         </div>
       </div>
       <div class="right gradient"></div>
