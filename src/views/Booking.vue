@@ -211,7 +211,7 @@
               <h4 class="text-danger">{{ booking.from }} - {{ booking.destination }}</h4>
               <h4 class="text-danger">{{ booking.startdate }} {{ booking.time }} GMT+7</h4>
               <h4 class="text-primary">{{ booking.seattype }}</h4>
-              <h4>PAIDED</h4>
+              <h4><kbd>PAID</kbd></h4>
             </div>
             <div class="col-md-6">
               <img src="/src/assets/qrticket.png" class="img-fluid w-50" alt="" srcset="">
